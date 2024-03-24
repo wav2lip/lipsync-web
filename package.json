@@ -1,0 +1,27 @@
+{
+  "name": "lipsync",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.58.5",
+    "axios": "^1.6.7",
+    "lodash-es": "^4.17.21",
+    "pinia": "^2.1.7",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.54.4",
+    "@arco-plugins/vite-vue": "^1.4.5",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.70.0",
+    "unocss": "^0.58.5",
+    "vite": "^5.0.8"
+  }
+}
